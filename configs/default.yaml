@@ -1,0 +1,6 @@
+seed: 42
+out_dir: results
+synthetic: false
+val_csv: data/agent_probs_val.csv     # columns: label, agent_0, agent_1, ...
+test_csv: data/agent_probs_test.csv
+max_selective_error: 0.05

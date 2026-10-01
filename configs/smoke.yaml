@@ -1,0 +1,7 @@
+seed: 42
+out_dir: results/smoke
+synthetic: true
+n_agents: 3
+n_val: 1500
+n_test: 3000
+max_selective_error: 0.05
